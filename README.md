@@ -26,6 +26,8 @@ Well, I am old-school and identify as a man, so my pronouns are he/him.
 - [FLA Compound Document Tools](https://github.com/jindrapetrik/flacomdoc) - a tool for working with old FLA formats (Java)
 - [Flash debugger](https://github.com/jindrapetrik/flashdebugger) - Flash debugging library (Java)
 - [XFL XML Schema](https://github.com/jindrapetrik/xfl-schema) - a description of the XFL/FLA format used by Adobe Flash and Animate 
+- [Iggy player](https://github.com/jindrapetrik/jpexs-iggy-player) - Windows Player for 64-bit IGGY movies using the external DLL (C#)
+- [NPAPI Player](https://github.com/jindrapetrik/jpexs-np-fplayer) - Play SWF files like in browser with custom URL (C++)
 
 #### Games
 - [Rock-paper-scissors-lizard-Spock](https://github.com/jindrapetrik/rpsls) - A game based on ICQ's Rock Paper Scissors Online (Java)
@@ -49,6 +51,7 @@ Well, I am old-school and identify as a man, so my pronouns are he/him.
 - [hug.ing](https://github.com/jindrapetrik/hug.ing) - A website for sending virtual hugs (PHP)
 - [Matice](https://github.com/jindrapetrik/matice) - An application for matrix calculations (Czech only, Windows, Delphi)
 - [jpexs-apng](https://github.com/jindrapetrik/jpexs-apng) - Library for working with animated PNGs (Java)
+- [jpexs-jxr](https://github.com/jindrapetrik/jpexs-jxr) - Library for reading/writing JPEG-XR images (Java)
 - [jbomutils](https://github.com/jindrapetrik/jbomutils) - Tool to create bill-of-materials files used in Mac OS X installers (Java)
 - [jxar](https://github.com/jindrapetrik/jxar) - eXtensible ARchiver (Java)
 - [javactivex](https://github.com/jindrapetrik/javactivex) - ActiveX Controls in Java
