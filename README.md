@@ -23,7 +23,7 @@ Well, I am old-school and identify as a man, so my pronouns are he/him.
 ### My projects
 #### Flash-related
 - [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - the main decompiler and its library (Java)
-- [FLA Compound Document Tools](https://github.com/jindrapetrik/flacomdoc) - a tool for working with old FLA formats (Java)
+- [JPEXS FLA Convert](https://github.com/jindrapetrik/jpexs-fla-convert) - a tool for conversion between different FLA/XFL formats (Java)
 - [Flash debugger](https://github.com/jindrapetrik/flashdebugger) - Flash debugging library (Java)
 - [XFL XML Schema](https://github.com/jindrapetrik/xfl-schema) - a description of the XFL/FLA format used by Adobe Flash and Animate 
 - [Iggy player](https://github.com/jindrapetrik/jpexs-iggy-player) - Windows Player for 64-bit IGGY movies using the external DLL (C#)
